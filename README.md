@@ -9,7 +9,8 @@ Swift 5
 
 CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.
 
-<strong style="color:red">Fixed typo use CreditCardForm instead ~~CreditCardForum~~</strong>
+New: 
+<strong style="color:red">Swift 5 Compatiblitiy</strong>
 
 ### Screenshots
 <img src="https://dotjpg.co/8bu.png" width="300"> <img src="Example/Screens/CreditCardDemo.gif" width="300">
